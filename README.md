@@ -1,5 +1,5 @@
-# FormikForm
-## Formik Form 
+# formik 
 
-<img src= "61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width ='300'/>
+This example demonstrates how to use Formik in its most basic way.
 
+[![Edit formik-example-basic](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/jaredpalmer/formik/tree/master/examples/basic?fontsize=14&hidenavigation=1&theme=dark)
